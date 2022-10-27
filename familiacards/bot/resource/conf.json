@@ -1,0 +1,28 @@
+{
+    "dono": "1082688046",
+    "manutencao": "false",
+    "userDono": "@INLOWN",
+    "versao": "2.1.1",
+    "updateDAte": "26/10/2022 as 18:28",
+    "price": {
+        "Gold": 30,
+        "Default": 30,
+        "standard": 16,
+        "default": 15,
+        "gold": 20,
+        "platinum": 25,
+        "elo": 30,
+        "bussines": 40,
+        "classic": 14,
+        "corporated": 40,
+        "black": 50,
+        "infiniti": 80,
+        "hypercard": 30
+    },
+    "pricemix": {
+        "2": 10,
+        "default": 15,
+        "3": 50
+    },
+    "welcome": "Olá {nome}, Seja bem vindo!\n\n[❓ Dúvidas](t.me/@INLOWN ou t.me/@PERNALONGACARDS)\n[👥 Grupo](t.me/familiacards)\n[📢 Canal](t.me/familiacardss)\n[⚙️ DONO](t.me/@INLOWN"
+}
